@@ -21,8 +21,6 @@ disqus_username: wangnachuanhai
 disqus:
   shortname: wangnachuanhai
 
-
-
 # Build settings
 future: true
 highlighter: rouge
