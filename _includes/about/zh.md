@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的文章"
+title: "关于我"
 comments: true
 ---
 

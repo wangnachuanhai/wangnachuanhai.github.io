@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的文章"
+title: "sEMG for prosthetic hand"
 comments: true
 ---
 
