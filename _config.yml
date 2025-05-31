@@ -74,7 +74,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "成为一名探究人类智慧的科学家"
-sidebar-avatar: img/avatar-wh.jpg # the avatar image in sidebar, default is "avatar-white.png"
+sidebar-avatar: /img/avatar-wh.jpg # the avatar image in sidebar, default is "avatar-white.png"
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
