@@ -1,7 +1,7 @@
 # Site settings
 title: Hai Blog
 SEOTitle: 王海的博客 | Hai Blog
-header-img: img/home-background.jpg
+header-img: /img/home-background.jpg
 email: wanghai_huaxi@stu.scu.edu.cn
 description: "这里是 @Hai 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "王海, Hai, 纳川, 王海的博客, Hai Blog, 博客, 个人网站, Life science"
