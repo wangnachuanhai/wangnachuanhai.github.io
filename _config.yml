@@ -5,51 +5,34 @@ header-img: ./img/home_background.jpg
 email: wanghai_huaxi@stu.scu.edu.cn
 description: "这里是 @Hai 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "王海, Hai, 纳川, 王海的博客, Hai Blog, 博客, 个人网站, Life science"
-url: "https://wangnachuanhai.github.io/" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
-
-# Publish posts or collection documents with a future date.
-future: true
+url: "https://wangnachuanhai.github.io/"
+baseurl: ""
 
 # SNS settings
 RSS: false
 zhihu_username: 纳川
 github_username: wangnachuanhai
 twitter_username: wangnachuanhai
-#facebook_username:  nachuan
-#linkedin_username:  firstname-lastname-wanghai
+
+# Disqus 评论系统 (确保此项存在)
+disqus_username: wangnachuanhai
+
+# Netease settings
+netease_comment: false
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+future: true
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude:
-  [
-    "less",
-    "node_modules",
-    "Gruntfile.js",
-    "package.json",
-    "README.md",
-    "README.zh.md",
-  ]
-anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
-
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-# make sure you have this gem installed
-# `$ gem install jekyll-paginate`
+exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md", "README.zh.md"]
+anchorjs: true
 plugins: [jekyll-paginate]
 
 # Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-  input: GFM # use Github Flavored Markdown !important
+  input: GFM
   syntax_highlighter_opts:
     span:
       line_numbers: false
@@ -57,45 +40,30 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Disqus settings
-disqus_username: wangnachuanhai
-
-# Netease settings
-netease_comment: false
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: [your track id]
-
-# Google Analytics
-#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
-
 # Sidebar settings
-sidebar: true # whether or not using Sidebar.
+sidebar: true
 sidebar-about-description: "成为一名探究人类智慧的科学家"
-sidebar-avatar: /img/avatar-wh.jpg # the avatar image in sidebar, default is "avatar-white.png"
+sidebar-avatar: /img/avatar-wh.jpg
 
 # Featured Tags
-featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
+featured-tags: true
+featured-condition-size: 1
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-# MathJax rendering for layout:page (e.g. post preview)
+# MathJax
 page-mathjax: false
 
 # Friends
-friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
+friends: [
+  { title: "乱序（Midare）", href: "http://mida.re/" },
+  { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+  { title: "Kun Qian", href: "http://kunq.me" },
+  { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+  { title: "SmdCn", href: "http://blog.smdcn.net" },
+  { title: "JiyinYiyong", href: "http://tiye.me/" },
+  { title: "DHong Say", href: "http://dhong.co" },
+  { title: "尹峰以为", href: "http://ingf.github.io/" }
+]
