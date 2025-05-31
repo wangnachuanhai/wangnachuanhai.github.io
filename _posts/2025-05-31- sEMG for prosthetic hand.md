@@ -83,9 +83,12 @@
 无论是功能恢复还是探索世界，假肢手的未来充满无限可能。让我们见证这场触觉躯体革命的到来。
 
 ### 参考文献
+<div style="line-height:1.8">
 
-[1] Ghazaei, Ghazal, et al. "Deep learning-based artificial vision for grasp classification in myoelectric hands." *Journal of neural engineering* 14.3 (2017): 036025.
-[2] Jiang, Ning, et al. "Bio-robotics research for non-invasive myoelectric neural interfaces for upper-limb prosthetic control: A 10-year perspective review." *National Science Review* 10.5 (2023): nwad048.
-[3] 何家源. *肌电控制接口的鲁棒特征与用户自适应性研究*. Diss. 上海交通大学, 2016.
-[4] Vu, Philip P., et al. "A regenerative peripheral nerve interface allows real-time control of an artificial hand in upper limb amputees." *Science translational medicine* 12.533 (2020): eaay2857.
+[1] Ghazaei, Ghazal, et al. "Deep learning-based artificial vision for grasp classification in myoelectric hands." *Journal of neural engineering* 14.3 (2017): 036025.<br>
+[2] Jiang, Ning, et al. "Bio-robotics research for non-invasive myoelectric neural interfaces for upper-limb prosthetic control: A 10-year perspective review." *National Science Review* 10.5 (2023): nwad048.<br>
+[3] 何家源. *肌电控制接口的鲁棒特征与用户自适应性研究*. Diss. 上海交通大学, 2016.<br>
+[4] Vu, Philip P., et al. "A regenerative peripheral nerve interface allows real-time control of an artificial hand in upper limb amputees." *Science translational medicine* 12.533 (2020): eaay2857.<br>
 [5] Nazarpour, Kianoush, et al. "Guest editorial: Advances in control of multi-functional powered upper-limb prostheses." *IEEE transactions on neural systems and rehabilitation engineering* 22.4 (2014): 711-715.
+
+</div>
