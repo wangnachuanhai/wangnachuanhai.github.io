@@ -56,9 +56,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-# _config.yml
-disqus:
-  shortname: myblog
+
 # Disqus settings
 disqus_username: wangnachuanhai
 
