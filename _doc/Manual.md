@@ -214,6 +214,7 @@ Second, from V1.5, you can easily complete your comment configuration by just ad
 duoshuo_username: _your_duoshuo_short_name_
 # OR
 disqus_username: _your_disqus_short_name_
+
 ```
 
 **To the old version user**, it's better that you pull the new version, otherwise you have to replace code in `post.html`, `keynote.html` and `about.html` on your own.
