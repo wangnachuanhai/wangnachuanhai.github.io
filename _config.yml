@@ -16,6 +16,9 @@ twitter_username: wangnachuanhai
 
 # Disqus 评论系统 (确保此项存在)
 disqus_username: wangnachuanhai
+# _config.yml
+disqus:
+  shortname: myblog-l9rc8sayiv
 
 # Netease settings
 netease_comment: false
