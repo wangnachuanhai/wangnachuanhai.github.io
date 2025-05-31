@@ -13,15 +13,15 @@ RSS: false
 zhihu_username: 纳川
 github_username: wangnachuanhai
 twitter_username: wangnachuanhai
-
+# comment settings
+comment: disqus
 # Disqus 评论系统 (确保此项存在)
 disqus_username: wangnachuanhai
 # _config.yml
 disqus:
-  shortname: myblog-l9rc8sayiv
+  shortname: wangnachuanhai
 
-# Netease settings
-netease_comment: false
+
 
 # Build settings
 future: true
