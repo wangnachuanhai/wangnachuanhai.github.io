@@ -6,7 +6,7 @@
 
 当渐冻症患者“意念”控制机械臂喝下第一口水，当截肢者用“幻肢”完成钢琴演奏——这些曾属于科幻的场景，正在被一项名叫 **高密度表面肌电技术（HD-sEMG）** 的技术一步步变为现实。
 
-![](2025-06-03-The%20application%20of%20high%20density%20sEMG_md_files/444295c0-406e-11f0-bd39-bd4b9e3a3215.jpeg?v=1&type=image)
+![](/img/text3/f1.jpeg)<br>
 
 > 图 1：渐冻症患者在机械臂的帮助下进食。
 
@@ -18,7 +18,7 @@
 
 每一个肌肉动作的背后，都是一个 α 运动神经元 + 数百根肌纤维组成的微型部队在放电。这就是**运动单位（Motor Unit）**，是神经系统对肌肉发号施令的基本单元。
 
-![](2025-06-03-The%20application%20of%20high%20density%20sEMG_md_files/4aa6a1e0-406e-11f0-bd39-bd4b9e3a3215.jpeg?v=1&type=image)
+![](/img/text3/f2.jpeg)<br>
 
 > 图 2：不同运动神经元放电脉冲及其支配的肌肉纤维和最终产生的肌电信号 [1]
 
@@ -29,7 +29,7 @@
 📌 过去的肌电图技术 ≈ 看热成像图
 📌 现在的高密度肌电技术 ≈ 看神经元级的显微录像
 
-![](2025-06-03-The%20application%20of%20high%20density%20sEMG_md_files/524cf200-406e-11f0-bd39-bd4b9e3a3215.jpeg?v=1&type=image)
+![](/img/text3/f3.jpeg)<br>
 
 > 图 3：运动单位分解示意图
 
@@ -41,14 +41,14 @@
 
 * **最新趋势**：MRI 建模 + FEM仿真 + AI神经网络（如 BioMime），可构建**个体化肌电数字孪生**。
 
-* ![](2025-06-03-The%20application%20of%20high%20density%20sEMG_md_files/57894700-406e-11f0-bd39-bd4b9e3a3215.jpeg?v=1&type=image)
+![](/img/text3/f4.jpeg)<br>
 
 > 图 4：在笛卡尔坐标系和圆柱坐标系中表示肌肉纤维的位置 [2]
 >
-> ![](2025-06-03-The%20application%20of%20high%20density%20sEMG_md_files/5ade3e60-406e-11f0-bd39-bd4b9e3a3215.jpeg?v=1&type=image)
+![](/img/text3/f5.jpeg)<br>
 > 图 5：用于手臂建模的肌肉、骨骼、皮下组织、皮肤和电极的表面几何形状 [3]
 >
-> ![](2025-06-03-The%20application%20of%20high%20density%20sEMG_md_files/5fe04980-406e-11f0-bd39-bd4b9e3a3215.jpeg?v=1&type=image)
+![](/img/text3/f6jpeg)<br>
 > 图 6：使用肌电数字孪生训练人工智能（AI）的一般策略，用于现实中的 sEMG 解码 [3]
 
 ### 2.2 分解技术飞跃：从盲源分离到深度学习
@@ -79,7 +79,7 @@
 
 * **虚拟现实互动**：肌肉信号直接控制虚拟化身，提高沉浸体验。
 
-* ![](2025-06-03-The%20application%20of%20high%20density%20sEMG_md_files/655d5100-406e-11f0-bd39-bd4b9e3a3215.jpeg?v=1&type=image)
+![](/img/text3/f7.jpeg)<br>
 
 > 图 7：人类脊髓运动神经元脉冲序列控制假肢手 [5]
 
@@ -107,8 +107,10 @@
 
 ## 📚 参考文献
 
-[1] A. Del Vecchio et al., *Journal of Electromyography and Kinesiology*, 2020.
-[2] R. Merletti & D. Farina, *Surface EMG: Physiology, Engineering, Applications*, Wiley, 2016.
-[3] K. Maksymenko et al., *Nature Communications*, 2023.
-[4] D. Farina et al., *Journal of Applied Physiology*, 2025.
-[5] D. Farina et al., *Nature Biomedical Engineering*, 2017.
+[1] A. Del Vecchio et al., *Journal of Electromyography and Kinesiology*, 2020.&#x20;<br>
+[2] R. Merletti & D. Farina, *Surface EMG: Physiology, Engineering,&#x20;<br>
+Applications*, Wiley, 2016.<br>
+[3] K. Maksymenko et al., *Nature Communications*, 2023.<br>
+[4] D. Farina et al., *Journal of Applied Physiology*, 2025.<br>
+[5] D. Farina et al., *Nature Biomedical Engineering*, 2017.<br>
+
