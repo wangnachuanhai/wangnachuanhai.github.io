@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d995864-c9f5-4787-8f0f-10099e4e9d74" name="Changes" comment="initialize project configuration files" />
+    <list default="true" id="8d995864-c9f5-4787-8f0f-10099e4e9d74" name="Changes" comment="initialize project configuration files">
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,18 +62,18 @@
       <recent name="C:\Users\WangHai\Documents\GitHub\wangnachuanhai.github.io\img\in-post" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WangHai\Documents\GitHub\wangnachuanhai.github.io\img\text3" />
       <recent name="C:\Users\WangHai\Documents\GitHub\wangnachuanhai.github.io\img\text2" />
       <recent name="C:\Users\WangHai\Documents\GitHub\wangnachuanhai.github.io\img" />
       <recent name="C:\Users\WangHai\Documents\GitHub\wangnachuanhai.github.io\img\in-post" />
       <recent name="C:\Users\WangHai\Documents\GitHub\wangnachuanhai.github.io\_posts\read_sf_qc" />
-      <recent name="C:\Users\WangHai\Documents\GitHub\wangnachuanhai.github.io\assets\img\team" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -93,6 +99,8 @@
       <workItem from="1748617774207" duration="15771000" />
       <workItem from="1748674484117" duration="1749000" />
       <workItem from="1748676658713" duration="328000" />
+      <workItem from="1748950036890" duration="2537000" />
+      <workItem from="1761911052092" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
