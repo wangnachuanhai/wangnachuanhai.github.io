@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d995864-c9f5-4787-8f0f-10099e4e9d74" name="Changes" comment="initialize project configuration files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2025-10-31人类不能永远只是血肉之躯.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
         <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
@@ -98,7 +96,7 @@
       <workItem from="1748676658713" duration="328000" />
       <workItem from="1748950036890" duration="2537000" />
       <workItem from="1761911052092" duration="1083000" />
-      <workItem from="1761912237040" duration="464000" />
+      <workItem from="1761912237040" duration="1478000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -284,7 +282,31 @@
       <option name="project" value="LOCAL" />
       <updated>1761911998786</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="initialize project configuration files">
+      <option name="closed" value="true" />
+      <created>1761912711487</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1761912711487</updated>
+    </task>
+    <task id="LOCAL-00025" summary="initialize project configuration files">
+      <option name="closed" value="true" />
+      <created>1761912726026</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1761912726026</updated>
+    </task>
+    <task id="LOCAL-00026" summary="initialize project configuration files">
+      <option name="closed" value="true" />
+      <created>1761914754691</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1761914754691</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
